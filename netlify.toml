@@ -1,5 +1,5 @@
 [build]
-  ommand = "npm run build; ps aux"
+  command = "npm run build; ps aux"
   functions = "netlify/functions"
   publish = "public"
 
